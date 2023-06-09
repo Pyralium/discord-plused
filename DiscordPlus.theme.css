@@ -35,7 +35,7 @@
   --dplus-background-color-hue: 263;
   --dplus-background-color-saturation-amount: 87%;
   --dplus-background-color-lightness-amount: 5%;
-  --dplus-background-color-alpha: 0.3;
+  --dplus-background-color-alpha: 1;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -61,7 +61,7 @@
 /* Fonts */
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'System Bold';
-  --dplus-font-body: 'Mousemade Regular';
+  --dplus-font-body: 'Ubuntu Regular';
   --dplus-font-header: 'System Bold';
 
 /* Round corner sizes, measured in pixel radius.
