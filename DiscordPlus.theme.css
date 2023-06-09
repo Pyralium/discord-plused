@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Visitor TT1 BRK Regular';
+  --dplus-font-ui: 'Mousemade Regular';
   --dplus-font-body: 'Kimberley Black';
-  --dplus-font-header: 'Visitor TT1 BRK Regular';
+  --dplus-font-header: 'Mousemade Regular';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
