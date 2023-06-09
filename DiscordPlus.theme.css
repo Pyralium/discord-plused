@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://imgur.com/a/uXMWrAU);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
+  --dplus-accent-color-hue: 190;
   --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-lightness: 50%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -32,10 +32,10 @@
   --dplus-foreground-color-lightness-amount: 1;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
-  --dplus-background-color-hue: 320;
-  --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.8;
+  --dplus-background-color-hue: 229;
+  --dplus-background-color-saturation-amount: 36%;
+  --dplus-background-color-lightness-amount: 50%;
+  --dplus-background-color-alpha: 0.3;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Upheaval TT (BRK) Regular';
+  --dplus-font-ui: 'System Bold';
   --dplus-font-body: 'Mousemade Regular';
-  --dplus-font-header: 'Upheaval TT (BRK) Regular';
+  --dplus-font-header: 'System Bold';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
